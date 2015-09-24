@@ -1,2 +1,2 @@
 # xsl-fo
-Various XSL-FO templates used for publishing XML
+Various XSL templates created for publishing XML as HTML or PDF files (the latter via XSL-FO).
